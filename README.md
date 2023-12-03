@@ -3,7 +3,9 @@
 
 # Personal information
 NAME : Girish Sai Varma Penumathsa
-Stevens Login: ["gpenumat@stevens.edu"]
+
+STEVENS LOGIN: ["gpenumat@stevens.edu"]
+
 participant Members:Single
 
 
