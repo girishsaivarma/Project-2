@@ -9,13 +9,21 @@ STEVENS LOGIN: ["gpenumat@stevens.edu"]
 participant Members:Single
 
 
+
+
 ##  Repository URL
 https://github.com/girishsaivarma/Project-2
+
+
+
 
 
 ##  Time Spent
 
 I spent approximately 23 hours on the project. 
+
+
+
 
 
 ## Description of how you tested your code:
@@ -25,9 +33,15 @@ I tested each command ('go', 'look', 'get', 'drop', 'inventory', 'help', 'quit')
 I provided input variations and checked for error handling, such as entering invalid commands or incorrect file paths.
 
 
+
+
+
 ##  Bugs or issues you could not resolve:
 
 The code seems well-structured, and I don't see any major bugs.
+
+
+
 
 
 ##  Example of a difficult issue or bug and how you resolved it:
@@ -36,7 +50,11 @@ One potential difficult issue could be handling unexpected user input. For insta
 
 
 
+
+
 ##  List of extensions implemented with appropriate details:
+
+
 
  * Abbreviations for Verbs, Directions, and Items
    
@@ -45,11 +63,18 @@ For example, 'go n' could be accepted as an abbreviation for go north etc but it
 Considered potential ambiguity scenarios and ensured that abbreviations are only accepted when they have a clear interpretation.
 
 
+
+
+
 * Help Verb:
 
 Added a 'help' verb to the game.
 When the player enters 'help,' the game provides information about the valid verbs. It helps players keep track of available commands.
 Specifically, the help message lists the valid verbs and indicates those that expect a target 
+
+
+
+
 
 
 * Drop Verb:
