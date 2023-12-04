@@ -65,32 +65,7 @@ Considered potential ambiguity scenarios and ensured that abbreviations are only
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-base) penumathsagirishsaivarma@penumathsas-MacBook-Pro adventures % python adventure.py chamber.map
+>base) penumathsagirishsaivarma@penumathsas-MacBook-Pro adventures % python adventure.py chamber.map
 > The Sunlit Chamber
 
 You find yourself in a chamber filled with warm sunlight and golden walls.
@@ -154,16 +129,6 @@ Exits: east south
 
 
 
-
-
-
-
-
-
-
-
-
-
 * Help Verb:
 
 Added a 'help' verb to the game.
@@ -172,18 +137,7 @@ Specifically, the help message lists the valid verbs and indicates those that ex
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+>python adventure.py chamber.map
 What would you like to do? help
 You can run the following commands:
   go ...
@@ -193,23 +147,6 @@ You can run the following commands:
   drop ...
   quit
   help
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -224,17 +161,7 @@ Like the 'get' verb, 'drop' considers the potential presence of multiple items w
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+>python adventure.py chamber.map
 What would you like to do? get crystal
 You pick up the crystal.
 What would you like to do? drop crystal
