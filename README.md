@@ -64,7 +64,7 @@ Considered potential ambiguity scenarios and ensured that abbreviations are only
 
 
 
-
+#
 >base) penumathsagirishsaivarma@penumathsas-MacBook-Pro adventures % python adventure.py chamber.map
 > The Sunlit Chamber
 
@@ -136,7 +136,7 @@ When the player enters 'help,' the game provides information about the valid ver
 Specifically, the help message lists the valid verbs and indicates those that expect a target 
 
 
-
+#
 >python adventure.py chamber.map
 What would you like to do? help
 You can run the following commands:
@@ -160,7 +160,7 @@ Like the 'get' verb, 'drop' considers the potential presence of multiple items w
 
 
 
-
+#
 >python adventure.py chamber.map
 What would you like to do? get crystal
 You pick up the crystal.
