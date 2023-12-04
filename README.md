@@ -71,6 +71,25 @@ Considered potential ambiguity scenarios and ensured that abbreviations are only
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 base) penumathsagirishsaivarma@penumathsas-MacBook-Pro adventures % python adventure.py chamber.map
 > The Sunlit Chamber
 
@@ -135,11 +154,30 @@ Exits: east south
 
 
 
+
+
+
+
+
+
+
+
+
+
 * Help Verb:
 
 Added a 'help' verb to the game.
 When the player enters 'help,' the game provides information about the valid verbs. It helps players keep track of available commands.
 Specifically, the help message lists the valid verbs and indicates those that expect a target 
+
+
+
+
+
+
+
+
+
 
 
 
@@ -167,6 +205,15 @@ You can run the following commands:
 
 
 
+
+
+
+
+
+
+
+
+
 * Drop Verb:
 
 Implemented a 'drop' verb in addition to the existing 'get' verb.
@@ -178,11 +225,31 @@ Like the 'get' verb, 'drop' considers the potential presence of multiple items w
 
 
 
+
+
+
+
+
+
+
+
+
+
 What would you like to do? get crystal
 You pick up the crystal.
 What would you like to do? drop crystal
 You drop the crystal.
 What would you like to do? 
+
+
+
+
+
+
+
+
+
+
 
 
 
